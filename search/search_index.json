@@ -1,0 +1,29 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to MkDocs\n\n\nNas\u0131ls\u0131n\u0131z Acabaaaa",
+            "title": "Anasayfa"
+        },
+        {
+            "location": "/#welcome-to-mkdocs",
+            "text": "Nas\u0131ls\u0131n\u0131z Acabaaaa",
+            "title": "Welcome to MkDocs"
+        },
+        {
+            "location": "/icerik/",
+            "text": "\u015eunlar Olacak",
+            "title": "\u0130\u00e7erik Hakk\u0131nda"
+        },
+        {
+            "location": "/about/",
+            "text": "Ho\u015fgeldiniz\n\n\nNas\u0131ls\u0131n\u0131z",
+            "title": "Hakk\u0131nda"
+        },
+        {
+            "location": "/about/#hosgeldiniz",
+            "text": "Nas\u0131ls\u0131n\u0131z",
+            "title": "Ho\u015fgeldiniz"
+        }
+    ]
+}
